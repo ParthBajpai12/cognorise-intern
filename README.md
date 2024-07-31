@@ -28,6 +28,9 @@ This project utilizes the following technologies:
 - **HTML5:** For structuring the content and layout of the calculator.
 - **CSS3:** For styling the user interface and ensuring a responsive design.
 - **JavaScript:** For implementing the calculator's functionality and interactive features.
+## Live Site
+
+Experience the full functionality of the **To-Do List Application** by visiting the [live site](https://warm-alpaca-bc52ad.netlify.app/). Start organizing your tasks effortlessly today!
 
 
 We hope you find this project helpful and enjoyable to use. Feel free to explore the code, contribute, and provide feedback to help us improve!
